@@ -270,14 +270,25 @@ Feel free to fork this project and customize it for your needs. Suggestions for 
 
 This notebook is for educational and research purposes only. It should not be used as the sole basis for investment decisions. Always conduct thorough research and consult with financial advisors before making investment decisions.
 
-## License
+## 👤 Author
 
-This project is open source and available for educational purposes.
-
-## Contact
-
-For questions, issues, or suggestions, please feel free to reach out or open an issue in the repository.
+**SabinAdhikari**  
+GitHub: [SabinAdhikarii](https://github.com/SabinAdhikarii)
 
 ---
+
+## 📞 Support
+
+For questions or issues, please contact me at sabinofficial99@gmail.com).
+
+---
+
+**Last Updated:** January 2026
+
+## License
+
+This project is for educational and demonstration purposes. The Sanima bank dataset has been used. You can use the dataset directltly. The original source of the dataset is scrapped data from [NEPSE](https://nepsealpha.com/stocks/SANIMA/info?utm_source=copilot.com)  
+
+
 
 **Happy Analyzing! 📈**
